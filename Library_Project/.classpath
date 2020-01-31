@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/reshm/OneDrive/Desktop/New folder/LibraryProject/lib/commons-io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/reshm/OneDrive/Desktop/New folder/LibraryProject/lib/commons-io-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/reshm/OneDrive/Desktop/New folder/LibraryProject/lib/commons-io-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/reshm/OneDrive/Desktop/New folder/LibraryProject/lib/commons-io-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/reshm/OneDrive/Desktop/New folder/LibraryProject/lib/commons-io-test-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
